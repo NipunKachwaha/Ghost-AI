@@ -1,6 +1,5 @@
 Here is the completely redesigned README in raw Markdown format, entirely in English. You can click the **"Copy code"** button in the top-right corner of the block below to paste it directly into your `README.md` file:
 
-```markdown
 <div align="center">
   <h1>🏗️ Ghost Arc</h1>
   <h3>AI-Powered Collaborative System Architect</h3>
@@ -63,18 +62,13 @@ Follow these steps to set up the project locally on your machine.
 - Git
 
 ### 1. Clone the Repository
-```bash
 git clone [https://github.com/your-username/ghost-ai.git](https://github.com/your-username/ghost-ai.git)
 cd ghost-ai
 
-```
-
 ### 2. Install Dependencies
 
-```bash
 npm install
 
-```
 
 ### 3. Set Up Environment Variables
 
@@ -167,11 +161,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 **Developed and Maintained by Nipun Kushwaha**
 
-```
-
 <Elicitations message="Let me know if you need any further customizations:">
   <Elicitation label="Add my GitHub username" query="How do I add my actual GitHub username where it says 'your-username' in the clone link?"/>
   <Elicitation label="It looks good" query="Thank you, I've copied this file. I'll try running the project now."/>
 </Elicitations>
-
-```
