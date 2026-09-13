@@ -3,7 +3,7 @@ Here is the completely redesigned README in raw Markdown format, entirely in Eng
 <div align="center">
   <h1>Ghost AI</h1>
   <br />
-  <img src="https://github.com/NipunKachwaha/Ghost-AI/releases/download/demo/Demo.Video.mp4E" alt="Ghost AI Demo Preview" width="100%" style="max-width: 800px; border-radius: 8px; margin: 15px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/NipunKachwaha/Ghost-AI/releases/download/demo/Demo.Video.mp4" alt="Ghost AI Demo Preview" width="100%" style="max-width: 800px; border-radius: 8px; margin: 15px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   <br />
   <h3>AI-Powered Collaborative System Architect</h3>
   <p>An agentic planning application built for software teams to collaboratively design, visualize, and generate technical specifications for complex systems in real-time.</p>
