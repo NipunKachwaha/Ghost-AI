@@ -1,7 +1,7 @@
 Here is the completely redesigned README in raw Markdown format, entirely in English. You can click the **"Copy code"** button in the top-right corner of the block below to paste it directly into your `README.md` file:
 
 <div align="center">
-  <h1>🏗️ Ghost Arc</h1>
+  <h1>Ghost AI</h1>
   <h3>AI-Powered Collaborative System Architect</h3>
   <p>An agentic planning application built for software teams to collaboratively design, visualize, and generate technical specifications for complex systems in real-time.</p>
 

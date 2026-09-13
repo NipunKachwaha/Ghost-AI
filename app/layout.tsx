@@ -17,7 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ghost AI",
   description: "AI-powered design collaboration",
-  favicon: "./favicon.png",
+  icons: {
+    icon: "/favicon.png",
+  }
 }
 
 export default function RootLayout({
