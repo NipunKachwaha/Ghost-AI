@@ -63,13 +63,14 @@ Follow these steps to set up the project locally on your machine.
 - Git
 
 ### 1. Clone the Repository
+```
 git clone https://github.com/NipunKachwaha/Ghost-AI.git
 cd Ghost-AI
-
+```
 ### 2. Install Dependencies
-
+```
 npm install
-
+```
 
 ### 3. Set Up Environment Variables
 
