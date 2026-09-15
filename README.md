@@ -63,8 +63,8 @@ Follow these steps to set up the project locally on your machine.
 - Git
 
 ### 1. Clone the Repository
-git clone [https://github.com/your-username/ghost-ai.git](https://github.com/your-username/ghost-ai.git)
-cd ghost-ai
+git clone https://github.com/your-username/Ghost-AI.git
+cd Ghost-AI
 
 ### 2. Install Dependencies
 
